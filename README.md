@@ -21,12 +21,19 @@
   main(): Функция запуска всех функций бота
   
   start(update, context): Вывод стартовой клавиатуры с выбором кофейни
+  
   main_menu(update, context): Вывод клавиатуры с выбором кофейни
+  
   first_menu(update, context): Вывод клавиатуры для выбора напитков из кофейни № 1
+  
   second_menu(update, context): Вывод клавиатуры для выбора напитков из кофейни № 2
+  
   pay(update: Update, context: CallbackContext): Вывод оплата и подготовка информации для записи в лог заказов(order.txt)
+  
   precheckout_callback(update: Update, context: CallbackContext): Проверка оплаты
+  
   successful_payment_callback(update: Update, context: CallbackContext): Отправка покупателю сообщения об успешной оплате и запись в лог заказов(order.txt)
+  
   send_order_executer(): Отправка заказа в кофейню
   
 ФУНКЦИОНАЛЬНАЯ КЛАВИАТУРА: 
