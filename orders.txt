@@ -1,0 +1,47 @@
+{'date': 'Aug 03 2021 18:02:09', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'date': 'Aug 03 2021 18:02:57', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Капучино', 'price': '200'}
+{'date': 'Aug 03 2021 18:03:59', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Эспрессо', 'price': '150'}
+{'date': 'Aug 03 2021 18:07:12', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'date': 'Aug 03 2021 18:10:29', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Малиновый_РАФ', 'price': '350'}
+{'date': 'Aug 03 2021 18:11:49', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'date': 'Aug 03 2021 18:12:10', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Латте', 'price': '250'}
+{'date': 'Aug 04 2021 00:27:11', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'date': 'Aug 04 2021 00:30:06', 'firstname': 'Valeriya', 'lastname': None, 'username': 'lerahvrst', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'date': 'Aug 04 2021 12:23:13', 'firstname': 'Олег', 'lastname': 'Стыров', 'username': None, 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'date': 'Aug 04 2021 12:34:31', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'date': 'Aug 04 2021 12:56:25', 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'date': 'Aug 04 2021 12:58:49', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'date': 'Aug 05 2021 17:02:37', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 260, 'date': 'Aug 05 2021 17:08:18', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 1, 'date': 'Aug 05 2021 17:09:48', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Малиновый_РАФ', 'price': '350'}
+{'order_number': 2, 'date': 'Aug 05 2021 17:10:22', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 3, 'date': 'Aug 05 2021 17:11:30', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Капучино', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 11:43:20', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Латте', 'price': '250'}
+{'order_number': 2, 'date': 'Aug 06 2021 12:16:55', 'id': 226259176, 'firstname': 'Valeriya', 'lastname': None, 'username': 'lerahvrst', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 1, 'date': 'Aug 06 2021 12:47:26', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 1, 'date': 'Aug 06 2021 12:48:32', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 2, 'date': 'Aug 06 2021 12:49:40', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 14:46:45', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 1, 'date': 'Aug 06 2021 14:48:48', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 2, 'date': 'Aug 06 2021 14:49:42', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 14:53:09', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Малиновый_РАФ', 'price': '350'}
+{'order_number': 1, 'date': 'Aug 06 2021 14:54:31', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 14:56:29', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Капучино', 'price': '200'}
+{'order_number': 5, 'date': 'Aug 06 2021 14:58:11', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 1, 'date': 'Aug 06 2021 15:43:01', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 1, 'date': 'Aug 06 2021 15:48:28', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 2, 'date': 'Aug 06 2021 15:49:21', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 1, 'date': 'Aug 06 2021 15:50:56', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Латте', 'price': '250'}
+{'order_number': 2, 'date': 'Aug 06 2021 15:51:31', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 15:56:37', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 1, 'date': 'Aug 06 2021 15:58:13', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 1, 'date': 'Aug 06 2021 16:00:16', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 1, 'date': 'Aug 06 2021 16:03:20', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 1, 'date': 'Aug 06 2021 16:15:03', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Флэт-Уайт', 'price': '150'}
+{'order_number': 2, 'date': 'Aug 06 2021 16:15:49', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 3, 'date': 'Aug 06 2021 16:16:21', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'РАФ', 'price': '300'}
+{'order_number': 1, 'date': 'Aug 06 2021 16:18:01', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'SURFCoffee', 'coffee': 'Латте', 'price': '250'}
+{'order_number': 2, 'date': 'Aug 06 2021 16:20:41', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Капучино', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 16:31:23', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 16:32:20', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 06 2021 16:32:59', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
