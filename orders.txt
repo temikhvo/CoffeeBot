@@ -45,3 +45,4 @@
 {'order_number': 1, 'date': 'Aug 06 2021 16:31:23', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
 {'order_number': 1, 'date': 'Aug 06 2021 16:32:20', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
 {'order_number': 1, 'date': 'Aug 06 2021 16:32:59', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
+{'order_number': 1, 'date': 'Aug 09 2021 14:54:51', 'id': 191435757, 'firstname': 'Артем', 'lastname': 'Хворостянский', 'username': 'temikhvo', 'cafe': 'Кооператив_Черный', 'coffee': 'Латте', 'price': '200'}
