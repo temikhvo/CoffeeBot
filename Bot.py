@@ -49,7 +49,7 @@ def pay(update: Update, context: CallbackContext):
     currency = "RUB"
     price = int(coffee_list[2])
     # Сумма для Юкассы 100рублей = "10000" поэтому умножаем на 100
-    prices = [LabeledPrice("Test", price * 100)]
+    prices = [LabeledPrice("Цена", price * 100)]
     # отправляем счет клиенту в телеграм
     context.bot.send_invoice(chat_id, title, description, payload, provider_token, currency, prices)
     # Составляем лог заказа
