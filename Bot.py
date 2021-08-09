@@ -69,7 +69,7 @@ def pay(update: Update, context: CallbackContext):
 # Функция отправки информации о заказе исполнителю
 def send_order_executer():
     # Открываем файл с исполнителями(Кофейнями)
-    file = open('/Users/akhvorostyanskiy/Desktop/IT/Курсы и Обучение/pythonProject/YourCoffeeBot/Project/executors.json', 'r')
+    file = open('executors.json', 'r')
     content = json.load(file)
     # по циклу перебираем кофейни
     for k, v in content.items():
